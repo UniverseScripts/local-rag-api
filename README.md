@@ -42,4 +42,4 @@ I maintain a Production-Ready Starter Kit that includes:
 
 ✅ One-Command Run (docker-compose up).
 
-[👉 Get the Dockerized Starter Kit on Gumroad ($29)](https://galacticgamer62.gumroad.com/l/local-rag-api)
+[👉 Get the Dockerized Starter Kit on Gumroad ($27)](https://galacticgamer62.gumroad.com/l/local-rag-api)
